@@ -2,6 +2,6 @@
 title: Introduction
 ---
 
-Coming soon...
+My first drawing...
 
 {% include drawing.html %}
