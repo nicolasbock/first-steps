@@ -1,3 +1,3 @@
-# first-steps
+# JavaScript Experiments
 
-Some experiments in JS
+Some experiments in JavaScript
