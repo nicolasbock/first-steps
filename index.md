@@ -2,6 +2,12 @@
 title: Introduction
 ---
 
-My first drawing...
+Some experiments in JavaScript...
 
-{% include drawing.html %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
